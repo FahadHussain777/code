@@ -33,5 +33,4 @@ class Hello extends Template
         $item=$this->collectionFactory->create()->getItems();
         return $item;
     }
-    /* commit to master
 }
